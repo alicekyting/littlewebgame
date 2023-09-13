@@ -1,0 +1,122 @@
+#student{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-image: url(Topic7/1.png);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;     
+    user-select: none;
+    cursor: default;
+}
+#stake2{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-image: url(Topic7/2.png);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;     
+    user-select: none;
+    cursor: default;
+}
+
+#stake3{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-image: url(Topic7/3.png);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;     
+    user-select: none;
+    cursor: default;
+}
+
+#stake4{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-image: url(Topic7/4.png);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;     
+    user-select: none;
+    cursor: default;
+}
+
+#stake5{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-image: url(Topic7/5.png);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;     
+    user-select: none;
+    cursor: default;
+}
+
+#stake6{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-image: url(Topic7/6.png);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;     
+    user-select: none;
+    cursor: default;
+}
+
+#stake7{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-image: url(Topic7/7.png);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;     
+    user-select: none;
+    cursor: default;
+}
+
+#stake8{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    background-image: url(Topic7/8.png);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;     
+    user-select: none;
+    cursor: default;
+}
+
+
+
+#map{
+    float: right;
+    margin-right: 350px;
+}
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: azure;
+}
